@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'kod-polex',
     environment: environment,
-    baseURL: '/https://github.com/dominika35/dominika35.github.io/',
+    baseURL: '/dominika35.github.io/dominika35.github.io',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
