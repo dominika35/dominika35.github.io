@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'kod-polex',
+    modulePrefix: 'dominika35.github.io',
     environment: environment,
     baseURL: '/dominika35.github.io/dominika35.github.io',
     locationType: 'auto',
